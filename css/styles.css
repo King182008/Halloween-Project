@@ -1,0 +1,18 @@
+.text {
+    color: orange;
+}
+
+.odd {
+    text-align: right; margin-right: 5em;
+}
+
+.box-odd {
+    width:250px;
+    padding-top:5px;
+    border-style:solid;
+    border-color:green;
+    border-width:1px;
+    padding-left:3px;
+    padding-bottom:10px;
+    float: right;
+}
